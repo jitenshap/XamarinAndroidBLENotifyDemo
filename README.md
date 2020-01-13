@@ -1,8 +1,8 @@
 ## せつめい
 M5StickCのホームボタンを押したり離したりするとAndroidの画面にON/OFFってそれぞれ表示されるデモ  
-ESP32_BLE_notify Arduino ESP32のBLE_Notify exampleを改変して  
-M5StickCのボタンを押したときに0x01、離したときに0x00をペイロードにNotifyするようにしたやつ
-XamarinAndroidBLENotifyTest	Xamarin.Androidでそれを受信表示するやつ  
+ESP32_BLE_notify: Arduino ESP32のBLE_Notify exampleを改変して  
+M5StickCのボタンを押したときに0x01、離したときに0x00をペイロードにNotifyするようにしたやつ  
+XamarinAndroidBLENotifyTest:	Xamarin.Androidでそれを受信表示するやつ  
 VS2019にXamarin入れて適当に作った。  
   
 ## ちゅうい
